@@ -162,7 +162,7 @@ export function help(textChannel) {
   help += "@list - shows the playlist\n";
   help +=
     "@play [url/song name] - plays the song/ adds to the playlist/ resumes\n";
-  help += "@volume [x%] - sets the volume as x\n";
+  help += "@volume [x%] - sets the volume as x%\n";
   help += "@pause - pauses the music player\n";
   help += "@skip - skips the current music\n";
   help +=
